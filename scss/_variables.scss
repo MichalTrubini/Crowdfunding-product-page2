@@ -1,0 +1,30 @@
+//colors
+
+$Moderate-cyan: hsl(176, 50%, 47%);
+$Dark-cyan: hsl(176, 72%, 28%);
+$Black: hsl(0, 0%, 0%);
+$Dark-gray: hsl(0, 0%, 48%);
+$Light-gray:rgba(47, 47, 47,0.8);
+$White:#fff;
+$Very-light-gray:hsl(0, 0%, 95%);
+$Lighter-gray:hsla(0, 0%, 18%, 0.05);
+
+//ui
+
+$background-body:$Very-light-gray;
+$background-card:$White;
+$background-btn-primary: $Moderate-cyan;
+$background-btn-secondary:$Light-gray;
+$background-btn-primary-hover:$Dark-cyan;
+$background-progress-bar:$Moderate-cyan;
+$background-bookmark:$Lighter-gray;
+
+$color-heading-main:$Black;
+$color-heading-accent:$Moderate-cyan;
+$color-body-text:$Dark-gray;
+$color-btn:$White;
+$color-menu-mb:$Black;
+$color-general-black:$Black;
+
+$border-primary:rgba(0, 0, 0, 0.15);
+$border-accent:$Moderate-cyan;
